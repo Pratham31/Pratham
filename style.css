@@ -257,7 +257,7 @@ ul.socialIcons {
   }
   
    .combine .contain {
-    font: 900 9vw 'Alata', sans-serif;
+    font: 900 11vw 'Alata', sans-serif;
     color: #D4AF37;
     z-index: 50000;
   }
@@ -267,7 +267,7 @@ ul.socialIcons {
     margin-top: 1vw;
     margin-left: 2vw;
     font-size: 2vw;
-    padding: 3px;
+    padding: 15px;
   }
   ul.socialIcons {
     padding: 0;
