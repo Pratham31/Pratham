@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 html{
     overflow-y: hidden;
     overflow-x: hidden;
@@ -54,7 +55,7 @@ h1{
 p{
     padding:0 7vw;
     font-size: 2vw;
-    font-family: cursive;
+    font-family: 'Patrick Hand', cursive;
     text-align: center;
     color: 	#C0C0C0;
 }
