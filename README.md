@@ -72,7 +72,7 @@
 -   We will consider the needs of all individuals in delivering their services.
 -  And for new Community Leader, we will spend some time with time in order to give him ideas about community works, what are steps that have to be taken for the betterment of the community and also accessible to the Missions, Visions, and goals of Community.
 
-# 3. Structure
+### 3. Structure
 - Introducing our Community and its Missions, Visions, and Goals.
 - Detailed Plans and various roles of Community members.
 - Gap or Mistake Analysis, Progress, and Growth Rate of members.
