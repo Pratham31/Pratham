@@ -32,8 +32,7 @@
 - To make the community stronger, relations with members should be stronger and to make relations stronger we will share thoughts of each and every community members as well as time to time feedbacks, suggestions, improvements, and many more...
 - Instead of making only teaching and learning relationships, we will build family-type relationships among our group members. We will treat each member as a family member of our community.
 -  We will try to share any personal or non-personal problems, issues, obstacles like financial problems, academics problems, and resolving them promptly.
--   I am damn sure by using this methodology we will build strong relations with our community members and eventually it turns into the strongest community.
--   
+-   I am damn sure by using this methodology we will build strong relations with our community members and eventually it turns into the strongest community.   
 
 # Community Mission
 ### NewPros - ``` We believe in transforming NEWbies into PROfessionals, nevertheless of Field, Profession, Interest, Designation. ```
