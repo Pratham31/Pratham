@@ -37,6 +37,7 @@
 # Community Mission  🔖
 ### NewPros - ``` We believe in transforming NEWbies into PROfessionals, nevertheless of Field, Profession, Interest, Designation. ```
 <br>
+
 # What do members look to get from our community?🤔
 ### 1. Activities
 - First of all, we would love to conduct various workshops, seminars, meetups in order to make the basics and concepts of members stronger than ever.
