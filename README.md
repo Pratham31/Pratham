@@ -83,3 +83,4 @@
 - I will try to share information on processes, and why things are done that way.
 - Also keep track of New Leader's roles, their responsibilities, performance, Growth rate and will give suggestions from time to time.
 aaa
+asas
