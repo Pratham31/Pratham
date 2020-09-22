@@ -216,8 +216,8 @@ ul.socialIcons {
 }
 
  .socialIcons .facebook {
-  background-color: #6cc644;
-  box-shadow: 0 0 16px #6cc644;
+  background-color: #000000;
+  box-shadow: 0 0 16px #000000;
   z-index: 10000;
 }
 
