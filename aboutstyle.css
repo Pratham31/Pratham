@@ -1,35 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
-html{
+html {
     overflow-y: hidden;
     overflow-x: hidden;
 }
-body{
+
+body {
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background:linear-gradient(200deg, #003, rgb(65, 43, 21));
+    background: linear-gradient(200deg, #003, rgb(65, 43, 21));
     animation: fade 6s;
-
 }
-@keyframes fade{
-    from{
+
+@keyframes fade {
+    from {
         opacity: 0;
         transform: rotateX(-10deg);
     }
-    to{
+    to {
         opacity: 1;
         transform: rotateX(0);
     }
 }
 
-div{
+div {
     padding-bottom: 1vw;
-
 }
-h1{
+
+h1 {
     margin: 0;
     color: transparent;
     text-align: center;
@@ -37,71 +38,63 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
     font-weight: bold;
-    background-image: linear-gradient(
-        to right,
-        #462523 0,
-        #cb9b51 22%,
-        #fbe27a 45%,
-        #f6f2c0 50%,
-        #f6e27a 55%,
-        #cb9b51 78%,
-        #462523 100%
-    );
+    background-image: linear-gradient( to right, #462523 0, #cb9b51 22%, #fbe27a 45%, #f6f2c0 50%, #f6e27a 55%, #cb9b51 78%, #462523 100%);
     -webkit-background-clip: text;
     animation: backInUp;
-    animation-delay: 1s; /* referring directly to the animation's @keyframe declaration */
-    animation-duration: 20s; /* don't forget to set a duration! */
+    animation-delay: 1s;
+    /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 20s;
+    /* don't forget to set a duration! */
 }
-p{
-    padding:0 7vw;
+
+p {
+    padding: 0 7vw;
     font-size: 2vw;
     font-family: 'Patrick Hand', cursive;
     text-align: center;
-    color: 	#C0C0C0;
+    color: #C0C0C0;
 }
-.right{
-    float:right;
+
+.right {
+    font-family: 'Patrick Hand', cursive;
+    float: right;
     margin-right: 1.8em;
     color: #FFDF00;
     font-size: 1.5vw;
     letter-spacing: 2px;
     font-weight: bold;
-    
 }
-.left{
-    float:left;
+
+.left {
+    font-family: 'Patrick Hand', cursive;
+    float: left;
     letter-spacing: 2px;
     margin-left: 2em;
     font-size: 1.5vw;
     color: #FFDF00;
-    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    
 }
-@media only screen and (max-width:1025px)
-{
-    h1{
+
+@media only screen and (max-width:1025px) {
+    h1 {
         font-size: 6vw;
     }
-    p{
+    p {
         font-size: 4vw;
     }
-    .right{
+    .right {
         font-size: 3.5vw;
-        
     }
-    .left{
+    .left {
         font-size: 3.5vw;
     }
 }
-@media only screen and (max-width:420px)
-{
-    h1{
+
+@media only screen and (max-width:420px) {
+    h1 {
         font-size: 7vw;
     }
-    p{
+    p {
         font-size: 5vw;
     }
 }
-
-
